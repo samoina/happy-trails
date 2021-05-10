@@ -4,10 +4,7 @@
 }
 
 .popular {
-  color: #f7325e;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-}
-
-ol.popular {
   font-style: italic;
+  font-variant: normal;
+  color: darkkhaki;
 }
